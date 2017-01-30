@@ -1,0 +1,13 @@
+charset "utf-8";
+
+h1
+{
+	color: skyblue;
+}
+
+body 
+{ color:  #000099;
+             background-color:  mediumspringgreen;
+     font-family: Arial, Helvetica, sans-serif; 
+	a:link {background-color: #CCCCCC}
+}
